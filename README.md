@@ -4,7 +4,7 @@ Este repositório contém uma implementação do **Algoritmo de Kruskal** em C++
 
 Este código foi desenvolvido como parte de estudos em **Teoria dos Grafos**.
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 - Leitura de arestas e pesos do grafo.
 - Ordenação das arestas por peso (crescente).
@@ -12,12 +12,12 @@ Este código foi desenvolvido como parte de estudos em **Teoria dos Grafos**.
 - Exibição das arestas que compõem a Árvore Geradora Mínima.
 - Cálculo do custo total da MST.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Linguagem:** C++
 * **Compilador:** g++ (MinGW ou similar)
 
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 ### Pré-requisitos
 Certifique-se de ter um compilador C++ instalado (como o G++).
