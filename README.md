@@ -1,6 +1,6 @@
 # 🌳 Algoritmo de Kruskal - Árvore Geradora Mínima
 
-Este repositório contém uma implementação do **Algoritmo de Kruskal** em C++. O objetivo do projeto é encontrar a Árvore Geradora Mínima (MST - Minimum Spanning Tree) de um grafo ponderado não direcionado.
+Este repositório contém uma implementação do **Algoritmo de Kruskal** em C++. O objetivou do projeto é encontrar a Árvore Geradora Mínima (MST - Minimum Spanning Tree) de um grafo ponderado não direcionado.
 
 Este código foi desenvolvido como parte de estudos em **Teoria dos Grafos**.
 
@@ -46,6 +46,6 @@ Exemplo de Entrada:
 2 3 4
 
 ✒️ Autor
-Maryedw - Desenvolvimento
+Maria Eduarda Ribeiro - Desenvolvimento
 
 Este projeto é para fins educacionais.
