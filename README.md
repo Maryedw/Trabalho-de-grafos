@@ -47,4 +47,5 @@ Exemplo de Entrada:
 
 ✒️ Autor
 Maryedw - Desenvolvimento
+
 Este projeto é para fins educacionais.
