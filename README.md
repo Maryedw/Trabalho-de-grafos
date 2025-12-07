@@ -32,14 +32,10 @@ No Windows: ./kruskal.exe
 No Linux/Mac: ./kruskal
 
 Exemplo de Entrada:
-
+```bash
 4 5
 1 2 5
 2 3 3
 1 4 10
 4 3 -2
 3 2 1
-✒️ Autor
-Maria Eduarda Ribeiro - Desenvolvimento
-
-Este projeto é para fins educacionais.
