@@ -35,7 +35,11 @@ struct DSU {
 
 int main() {
     int n, m;
-    cin >> n >> m;
+    
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    if (!(cin >> n >> m)) return 0;
 
     vector<Aresta> arestas(m);
 
@@ -44,7 +48,9 @@ int main() {
 
     sort(arestas.begin(), arestas.end());
 
-    DSU dsu(n);
+    // CORREÇÃO CRÍTICA: n + 1 para suportar inputs que começam em 1
+    DSU dsu(n + 1); 
+    
     double custoTotal = 0;
     vector<Aresta> mst;
 
