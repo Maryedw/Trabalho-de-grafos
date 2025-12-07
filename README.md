@@ -39,3 +39,4 @@ Exemplo de Entrada:
 1 4 10
 4 3 -2
 3 2 1
+
